@@ -1,0 +1,4 @@
+../build
+.idea
+hamster-connector/dist
+hamster-connector/node_modules
